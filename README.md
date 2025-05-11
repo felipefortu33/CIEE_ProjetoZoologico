@@ -87,7 +87,7 @@ dotnet run
 ```bash
 cd zoo-management-frontend
 npm install
-npm start
+npm run dev
 ```
 
 ## 🔮 Melhorias Futuras
