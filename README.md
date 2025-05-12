@@ -25,7 +25,7 @@ O sistema cumpre todos os requisitos propostos, incluindo:
 - React Hook Form para controle e validação de formulários  
 
 ### Backend
-- .NET Core 6  
+- .NET Core 8
 - Entity Framework Core (ORM)  
 - Swagger para documentação interativa da API  
 - SQL Server como banco de dados relacional  
